@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Pz34RVGKdbPOfH5a8i0xsALqE2vg9oqrFX8HpETXKQc=",
+  "Source": "TechECommerce.API",
+  "BasePath": "_content/TechECommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TechECommerce.API\\wwwroot",
+      "Source": "TechECommerce.API",
+      "ContentRoot": "C:\\Users\\Şahin\\Desktop\\BEU\\Müasir Proqramlaşdırma Dilləri\\Tech E Commerce\\TechECommerce\\TechECommerce.API\\wwwroot\\",
+      "BasePath": "_content/TechECommerce.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
